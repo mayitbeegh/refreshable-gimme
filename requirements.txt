@@ -1,0 +1,2 @@
+gimme-aws-creds==2.3.5
+flask
